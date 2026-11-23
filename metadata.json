@@ -1,0 +1,6 @@
+{
+  "name": "tintware coding ai",
+  "description": "Unrestricted Roblox Studio coding AI in Lua and Luau with side-by-side workspace, zero-truncation script editing, and direct prompt execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
